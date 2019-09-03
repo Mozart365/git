@@ -1,4 +1,4 @@
-#Git Course - Udemy
+#Git Course - Udemy.
 
 Este é um arquivo teste.
 
